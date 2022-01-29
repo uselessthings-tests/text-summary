@@ -1,0 +1,2 @@
+streamlit==1.4.0
+bert-extractive-summarizer==0.10.1
